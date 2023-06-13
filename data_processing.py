@@ -8,4 +8,4 @@ def sum(a,b):
     c=a+b
     return a
 
-print("Added a new function sum which is not correct")
+print("Added a new function sum which is not correct - check")
